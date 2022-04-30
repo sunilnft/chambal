@@ -1,2 +1,19 @@
+<<<<<<< HEAD
 Nebranchnewbranch
 git
+=======
+<<<<<<< Updated upstream
+Fakt Master
+Fakt Master
+Faktmaster before popping up the stash
+w
+Nebranchnewbranch
+git
+<<<<<<< Updated upstream
+Stashing the new branch before switching to main
+>>>>>>> Stashed changes:w
+
+=======
+Stashing the new branch before switching to main
+>>>>>>> Stashed changes
+>>>>>>> main
