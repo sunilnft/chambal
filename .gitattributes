@@ -1,2 +1,2 @@
-g# Auto detect text files and perform LF normalization
+g:w# Auto detect text files and perform LF normalization
 * text=auto
